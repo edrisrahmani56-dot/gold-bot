@@ -7,7 +7,7 @@ import threading
 import os
 
 TELEGRAM_TOKEN = "  8932224201:AAFUYs0h5ZqFaY2zDR9EG5m3Abqf3Eedjas
-
+" 
 SYMBOL = "GC=F"
 app_flask = Flask(__name__)
 @app_flask.route('/')
